@@ -1,0 +1,25 @@
+.marketplace-lander .marketplace-lander-content-title {
+	font-size:3.25em;
+	
+}
+
+
+
+
+
+.inline-big-button{
+       border-radius: 2px;
+}
+
+.marketplace-lander .marketplace-lander-content-description{
+	color:#ffffff;
+}
+
+.button{
+       border-radius: 2px;
+}
+
+
+button, .button{
+border-radius:3px;
+}
