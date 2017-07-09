@@ -23,3 +23,17 @@
 button, .button{
 border-radius:2px;
 }
+
+.home-toolbar-button-group-button:first-child{
+border-bottom-left-radius:2px;
+border-top-left-radius:2px;	
+}
+
+.home-toolbar-button-group-button:last-child{
+border-bottom-right-radius:2px;
+border-top-right-radius:2px;
+}
+
+.toggle.with-borders{
+border-radius:2px;
+}
