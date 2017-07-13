@@ -1,10 +1,10 @@
 @font-face {
-   font-family: 'Moon';
+   font-family: 'Moon','Arial';
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
 .marketplace-lander .marketplace-lander-content-title {
 	font-size:3.25em;
-	font-family: 'Moon';
+	font-family: 'Moon','Arial';
 }
 
 
