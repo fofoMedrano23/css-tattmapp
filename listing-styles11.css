@@ -62,7 +62,7 @@ border-radius:2px;
 /*custom styles*/
 @media (min-width: 1201px)
 .LoginLinks__link__1GboG {
-    color: #ffffff!important;
+    color: #fcfcfc!important;
 }
 .MenuPriority__priorityLink__moBbL {
     color: #ffffff;
@@ -82,7 +82,7 @@ color: #fcfcfc!important;
 }
 @media (min-width: 1201px)
 .SearchBar__focusContainer__2uI0-:before {
-    display: none;
+    display: block;
     border-radius: 22px;
 }
 AddNewListingButton__desktop__17Luf AddNewListingButton_desktop{
