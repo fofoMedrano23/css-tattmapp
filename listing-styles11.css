@@ -37,6 +37,9 @@ border-top-left-radius:2px;
 border-bottom-right-radius:2px;
 border-top-right-radius:2px;
 }
+.Topbar__topbar__7GUWt button, .Topbar__topbar__7GUWt form, .Topbar__topbar__7GUWt input, .Topbar__topbar__7GUWt svg {
+    background-color: #fcfcfc!important;
+}
 
 .toggle.with-borders{
 border-radius:2px;
