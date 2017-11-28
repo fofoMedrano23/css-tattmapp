@@ -80,11 +80,11 @@ body {
 element.style {
   background-color: #ffffff;
 }
-@media (min-width: 1201px)
+@media (min-width: 1201px){
 .LoginLinks__link__1GboG {
     color: #fcfcfc;
-}
-@media (min-width: 1201px)
+	}}
+@media (min-width: 1201px){
 .LoginLinks__link__1GboG {
     color: #fcfcfc;
-}
+	}}
