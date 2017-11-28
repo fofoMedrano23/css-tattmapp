@@ -64,9 +64,7 @@ border-radius:2px;
 	}
 }
 /*custom styles*/
-	.Topbar__topbar__7GUWt {
-    background: #05668d;
-}
+	
 .MenuPriority__priorityLink__moBbL {
     color: #fcfcfc;
 }
@@ -97,5 +95,7 @@ element.style {
     border: 1px solid rgb(255, 255, 255);
 border-radius: 0px;
 }
-
-
+@media (min-width: 1201px){
+.Topbar__topbar__7GUWt {
+    background: #05668d;
+	}}
