@@ -102,6 +102,8 @@ border-radius: 0px;
     background-color: #05668d!important;
 }
 	}
-#topbar-container > div > div.Topbar__topbarMobileMenu__3z-JE.MenuMobile.MenuMobile__menuMobile___Ivzx.Topbar__topbarMobileMenu__3z-JE > div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g{
-fill="#ffffff!important";
+div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g{
+g[Attributes Style] {
+    fill: rgb(0, 7, 9);
+}
 }
