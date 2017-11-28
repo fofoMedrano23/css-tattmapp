@@ -60,10 +60,6 @@ border-radius:2px;
 	font-size: 1.25em;
 	}
 /*custom styles*/
-@media (min-width: 1201px)
-.LoginLinks__link__1GboG {
-    color:ffffff!important;
-}
 .MenuPriority__priorityLink__moBbL {
     color: #ffffff;
 }
