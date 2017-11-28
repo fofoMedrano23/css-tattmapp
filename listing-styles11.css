@@ -103,6 +103,6 @@ border-radius: 0px;
 }
 	}
 
-.g[Attributes Style] {
-    fill: "#ffffff"!important;
+element.style {
+    fill: #ffffff!important;
 }
