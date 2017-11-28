@@ -68,7 +68,7 @@ border-radius:2px;
 
 app-bundle-c893616….css:1
 .MenuPriority__priorityLink__moBbL {
-    color: #fcfcfc;
+    color: #fcfcfc!important;
 }
 
 .Menu__menuLabel__17fat {
@@ -90,7 +90,7 @@ body {
 @media (min-width: 1201px)
 app-bundle-c893616….css:1
 .SearchBar__focusContainer__2uI0-:before {
-    display: block;
+    display: none;
     border-radius: 2px;
 }
 
