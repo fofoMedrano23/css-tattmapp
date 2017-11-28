@@ -59,3 +59,34 @@ border-radius:2px;
 	.marketplace-lander .marketplace-lander-content-title{
 	font-size: 1.25em;
 	}
+/*custom styles*/
+	@media (min-width: 1201px)
+app-bundle-c893616….css:1
+.LoginLinks__link__1GboG {
+    color: #ffffff!important;
+}
+.MenuPriority__priorityLink__moBbL {
+    color: #ffffff;
+}
+.Menu__menuLabel__17fat {
+    color: #fcfcfc;  
+}
+
+.Topbar__topbar__7GUWt {
+    background: #05668d;
+}
+.Menu__menuLabel__17fat {
+    color: #fcfcfc;
+}
+.SearchBar__form__27PQI{
+color: #fcfcfc!important;
+}
+@media (min-width: 1201px)
+app-bundle-c893616….css:1
+.SearchBar__focusContainer__2uI0-:before {
+    display: block;
+    border-radius: 22px;
+}
+AddNewListingButton__desktop__17Luf AddNewListingButton_desktop{
+background: #023143;
+}
