@@ -60,8 +60,7 @@ border-radius:2px;
 	font-size: 1.25em;
 	}
 /*custom styles*/
-	@media (min-width: 1201px)
-app-bundle-c893616….css:1
+@media (min-width: 1201px)
 .LoginLinks__link__1GboG {
     color: #ffffff!important;
 }
@@ -82,9 +81,8 @@ app-bundle-c893616….css:1
 color: #fcfcfc!important;
 }
 @media (min-width: 1201px)
-app-bundle-c893616….css:1
 .SearchBar__focusContainer__2uI0-:before {
-    display: block;
+    display: none;
     border-radius: 22px;
 }
 AddNewListingButton__desktop__17Luf AddNewListingButton_desktop{
