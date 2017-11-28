@@ -59,11 +59,14 @@ border-radius:2px;
 	.marketplace-lander .marketplace-lander-content-title{
 	font-size: 1.25em;
 	}
-
+/*custom styles*/
 }
 .Topbar__topbar__7GUWt {
       background: #05668d;
    
+}
+.Link__link__3pNRT LoginLinks__link__1GboG{
+color:#ffffff!important;
 }
 
 .MenuPriority__priorityLink__moBbL {
