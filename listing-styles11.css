@@ -61,3 +61,39 @@ border-radius:2px;
 	}
 
 }
+.Topbar__topbar__7GUWt {
+      background: #05668d;
+   
+}
+
+app-bundle-c893616….css:1
+.MenuPriority__priorityLink__moBbL {
+    color: #fcfcfc;
+}
+
+.Menu__menuLabel__17fat {
+    color: #fcfcfc;  
+}
+
+
+
+element.style {
+    background-color: #fcfcfc;
+}
+
+
+body {  
+    color: #05668d;
+}
+
+
+@media (min-width: 1201px)
+app-bundle-c893616….css:1
+.SearchBar__focusContainer__2uI0-:before {
+    display: block;
+    border-radius: 2px;
+}
+
+.SearchBar__form__27PQI:hover .SearchBar__focusContainer__2uI0-:before, .SearchBar__form__27PQI>:focus ~ .SearchBar__focusContainer__2uI0-:before {
+    border-color: rgba(0,0,0,0);
+}
