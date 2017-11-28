@@ -100,10 +100,9 @@ border-radius: 0px;
 @media (max-width: 1201px){
 .Topbar__topbar__7GUWt button, .Topbar__topbar__7GUWt form, .Topbar__topbar__7GUWt input, .Topbar__topbar__7GUWt svg {
     background-color: #05668d!important;
+}}
+
+div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
+    FILL: #ffffff;
 }
-	}
-div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g{
-g[Attributes Style] {
-    fill: rgb(0, 7, 9);
-}
-}
+
