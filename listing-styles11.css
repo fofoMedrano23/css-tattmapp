@@ -110,7 +110,9 @@ div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
 }
 @media (min-width: 660px){
 .AddNewListingButton__responsiveLayout__1JnL9 .AddNewListingButton__backgroundContainer__4Nn3Z {
-    border-radius: 2px!important;
     background-color: #045474!important;
 }
+}
+.AddNewListingButton__button__2H8yh {
+    border-radius: 2px!important;
 }
