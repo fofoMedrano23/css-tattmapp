@@ -117,3 +117,7 @@ div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
 .AddNewListingButton__button__2H8yh {
     border-radius: 2px!important;
 }
+.MenuItem__menuitemLink__2Eedg:hover {
+    color: #000;
+    background-color: #05668d;
+}
