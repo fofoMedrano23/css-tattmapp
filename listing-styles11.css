@@ -80,6 +80,8 @@ body {
 element.style {
   background-color: #ffffff;
 }
-.Link__link__3pNRT .LoginLinks__link__1GboG a[style]{
-color: #fcfcfc!important;
-}
+@media (min-width: 1201px){
+.LoginLinks__link__1GboG {
+    line-height: 80px;
+    color: #ffffff!important;
+	}}
