@@ -87,4 +87,8 @@ element.style {
 .LoginLinks__link__1GboG {
     line-height: 80px;
     color: #ffffff!important;
-	}}
+	}
+.SearchBar__focusContainer__2uI0-:before {
+    border-radius: 0px;
+}
+}
