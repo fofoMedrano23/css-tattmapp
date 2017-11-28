@@ -108,4 +108,12 @@ div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
 .SearchBar__mobileToggle__3pjye {
     stroke: #fcfcfc;
 }
+@media (min-width: 660px){
+.AddNewListingButton__responsiveLayout__1JnL9 .AddNewListingButton__backgroundContainer__4Nn3Z {
+    background-color: #045474!important;
+}
+}
 
+.Topbar__topbar__7GUWt>.Topbar__topbarListingButton__2SNl8 {
+    border-radius: 2px;
+}
