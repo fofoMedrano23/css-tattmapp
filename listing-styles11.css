@@ -3,9 +3,7 @@
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
 .marketplace-lander .marketplace-lander-content-title {
-	font-size:3.25em;
-	font-family: Source Sans Pro;
-	
+	display:none:	
 }
 
 
@@ -17,8 +15,7 @@
 }
 
 .marketplace-lander .marketplace-lander-content-description{
-	
-	color:#ffffff;
+	display:none;
 }
 
 .button{
