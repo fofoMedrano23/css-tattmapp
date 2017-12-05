@@ -5,6 +5,7 @@
 .marketplace-lander .marketplace-lander-content-title {
 	font-size:3.25em;
 	font-family: Source Sans Pro;
+	display:none;
 }
 
 
@@ -16,6 +17,7 @@
 }
 
 .marketplace-lander .marketplace-lander-content-description{
+	display:none;
 	color:#ffffff;
 }
 
