@@ -132,10 +132,6 @@ div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
 .home-toolbar-button-group-button {
     color: #066689;}
 
-.marketplace-lander figure.marketplace-cover {
-display:none;
-}
-
 #custom_fields_63670{
 width:100%;
 }
@@ -143,5 +139,7 @@ width:100%;
 width:100%;
 }
 
-
+.marketplace-lander .marketplace-lander-content {
+   display: none;
+}
 
