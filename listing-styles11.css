@@ -137,5 +137,10 @@ width:100%;
 width:100%;
 }
 
-
+.new-listing-form a.select, .edit-listing-form a.select {
+   border: 2px solid #05668d;
+}
+input[type=password], input[type=number], textarea {
+    border: 2px solid #05668d;
+}
 
