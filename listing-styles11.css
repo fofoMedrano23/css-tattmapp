@@ -141,6 +141,6 @@ width:100%;
    border: 2px solid #05668d;
 }
 input[type=password], input[type=number], textarea {
-    border: 2px solid #05668d;
+    border: 2px solid #05668d!important;
 }
 
