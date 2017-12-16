@@ -2,10 +2,7 @@
    font-family: arial;
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
-.marketplace-lander .marketplace-lander-content-title {
-	font-size:3.25em;
-	font-family: arial;
-}
+
 
 
 
@@ -16,7 +13,7 @@
 }
 
 .marketplace-lander .marketplace-lander-content-description{
-	color:#ffffff;
+	display:none;
 }
 
 .button{
@@ -65,8 +62,8 @@ border-radius:2px;
 }
 /*custom styles*/
 .Topbar__topbar__7GUWt {
-    background: #05668d;
-}
+	background: #05668d;}
+
 .MenuPriority__priorityLink__moBbL {
     color: #fcfcfc;
 }
@@ -91,8 +88,57 @@ element.style {
 .AddNewListingButton__responsiveLayout__1JnL9 .AddNewListingButton__backgroundContainer__4Nn3Z {
     background-color: #045271!important;
 }
+.Topbar__topbar__7GUWt input {
+    font-size: 18px;
 }
 .SearchBar__focusContainer__2uI0-:before {
     border: 1px solid rgb(255, 255, 255);
 border-radius: 0px;
 }
+@media (max-width: 1201px){
+.Topbar__topbar__7GUWt button, .Topbar__topbar__7GUWt form, .Topbar__topbar__7GUWt input, .Topbar__topbar__7GUWt svg {
+    background-color: #05668d!important;
+}}
+
+div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
+    fill: #fcfcfc;
+}
+.SearchBar__mobileToggle__3pjye {
+    stroke: #fcfcfc;
+}
+@media (min-width: 660px){
+.AddNewListingButton__responsiveLayout__1JnL9 .AddNewListingButton__backgroundContainer__4Nn3Z {
+    background-color: #045474!important;
+    border-radius: 2px!important;
+}
+}
+.AddNewListingButton__button__2H8yh {
+    border-radius: 2px!important;
+}
+.MenuItem__menuitemLink__2Eedg:hover {
+    color: #669345;
+    background-color: #05668d;
+}
+.MenuPriority__priorityLink__moBbL:hover {
+    color: #a4be3d;
+}
+.marketplace-lander .marketplace-title-header h1 {
+    color: #066689;
+}
+.fluid-thumbnail-grid-image-price-container {
+    color: #066689;
+}
+.home-toolbar-button-group-button {
+    color: #066689;}
+
+#custom_fields_63670{
+width:100%;
+}
+#custom_fields_63662{
+width:100%;
+}
+
+.new-listing-form a.select, .edit-listing-form a.select {
+   border: 2px solid #05668d;
+}
+
