@@ -88,7 +88,8 @@ element.style {
 .AddNewListingButton__responsiveLayout__1JnL9 .AddNewListingButton__backgroundContainer__4Nn3Z {
     background-color: #045271!important;
 }
-
+.Topbar__topbar__7GUWt input {
+    font-size: 18px;
 }
 .SearchBar__focusContainer__2uI0-:before {
     border: 1px solid rgb(255, 255, 255);
