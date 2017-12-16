@@ -59,8 +59,7 @@ border-radius:2px;
 	}
 }
 /*custom styles*/
-.Topbar__topbar__7GUWt {
-	background: #05668d;}
+
 
 .MenuPriority__priorityLink__moBbL {
     color: #fcfcfc;
@@ -97,9 +96,9 @@ border-radius: 0px;
 }
 @media (max-width: 1200px){
 .Topbar__topbar__7GUWt button, .Topbar__topbar__7GUWt form, .Topbar__topbar__7GUWt input, .Topbar__topbar__7GUWt svg {
-    background-color: #05668d!important;
+	background:#05668d!important;}
 	
-}}
+}
 
 div.MenuLabelMobile.MenuMobile__menuLabelMobile__3uXwZ > span > svg > g {
     fill: #fcfcfc;
