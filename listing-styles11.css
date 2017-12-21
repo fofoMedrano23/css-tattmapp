@@ -155,7 +155,7 @@ font-family: 'Source Sans Pro', sans-serif;
 	background-size: contain;
     height: auto;
     position: relative;
-	bottom:50px;
+	top:500px;
 }
 
 .footer-distributed .footer-left,
