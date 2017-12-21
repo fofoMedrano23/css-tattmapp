@@ -150,8 +150,8 @@ width:100%;
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
-	font:  16px sans-serif;
-
+	font:  16px;
+font-family: 'Source Sans Pro', sans-serif;
 	padding: 85px 50px;
 	margin-top: 80px;
 }
