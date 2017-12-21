@@ -293,7 +293,7 @@ width:100%;
 @media (max-width: 880px) {
 
 	.footer-distributed{
-		font: bold 14px sans-serif;
+		font: bold 14px;
 	}
 
 	.footer-distributed .footer-left,
