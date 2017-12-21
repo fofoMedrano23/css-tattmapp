@@ -150,12 +150,10 @@ width:100%;
 	box-sizing: border-box;
 	width: 100%;
 	text-align: left;
-	font:  16px;
-font-family: 'Source Sans Pro', sans-serif;
-	background-size: contain;
-    height: auto;
-    position: relative;
-	bottom:600px;
+	font:  16px 'open' ;
+
+	padding: 85px 50px;
+	margin-top: 80px;
 }
 
 .footer-distributed .footer-left,
@@ -176,8 +174,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .footer-distributed h3{
 	color:  #ffffff;
-	font: bold 18px;
-	font-family: 'Source Sans Pro', sans-serif;
+	font: bold 18px 'sans-serif';
 	margin: 0;
 }
 
@@ -296,7 +293,7 @@ font-family: 'Source Sans Pro', sans-serif;
 @media (max-width: 880px) {
 
 	.footer-distributed{
-		font: bold 14px;
+		font: bold 14px sans-serif;
 	}
 
 	.footer-distributed .footer-left,
@@ -316,4 +313,5 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 }
+
 
