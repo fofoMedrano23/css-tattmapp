@@ -155,6 +155,7 @@ font-family: 'Source Sans Pro', sans-serif;
 	background-size: contain;
     height: auto;
     position: relative;
+	top:150px;
 }
 
 .footer-distributed .footer-left,
