@@ -154,6 +154,9 @@ width:100%;
 font-family: 'Source Sans Pro', sans-serif;
 	padding: 85px 50px;
 	margin-top: 80px;
+	background-size: contain;
+    height: auto;
+    position: relative;
 }
 
 .footer-distributed .footer-left,
