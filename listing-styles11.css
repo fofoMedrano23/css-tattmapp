@@ -293,6 +293,13 @@ width:100%;
 .insta_font{
 	background-color:  #517fa4;
 }
+.face-font{
+background-color:#3b5998;
+}
+
+.twitt-font{
+background-color:#00aced;
+}
 
 
 /* If you don't want the footer to be responsive, remove these media queries */
