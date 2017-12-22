@@ -278,7 +278,7 @@ width:100%;
 	width: 35px;
 	height: 35px;
 	cursor: pointer;
-	background-color:  #33383b;
+
 	border-radius: 100%;
 
 	font-size: 20px;
@@ -289,9 +289,11 @@ width:100%;
 	margin-right: 7px;
 	margin-bottom: 5px;
 }
-.insta_font{
-background-color:  #517fa4!important;
+
+.footer-distributed .footer-icons a .insta_font{
+	background-color:  #517fa4;
 }
+
 
 /* If you don't want the footer to be responsive, remove these media queries */
 
