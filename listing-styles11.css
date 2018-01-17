@@ -156,6 +156,8 @@ width:100%;
 	padding: 85px 50px;
 	margin-top: 80px;
 	font-family: 'Source Sans Pro', sans-serif;
+	position:relative;
+	top:1450px;
 }
 
 .footer-distributed .footer-left,
