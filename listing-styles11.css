@@ -6,7 +6,7 @@
     display: none;
 }
 
-.checkbox-option not-selected{
+.checkbox-option.not-selected{
 display:none;}
 
 
