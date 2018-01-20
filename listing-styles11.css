@@ -6,8 +6,9 @@
     display: none;
 }
 
-.checkbox-option.not-selected{
-display:none!important;}
+.checkbox-option.not-selected {
+    display: none;
+}
 
 
 
