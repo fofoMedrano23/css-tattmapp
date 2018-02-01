@@ -6,6 +6,10 @@
 .per_day_id{
 display:none!important;
 }
+.end_on{
+display:none!important;
+}
+
 .checkbox-option.not-selected {
     display: none;
 }
