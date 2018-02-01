@@ -10,7 +10,7 @@
     display: none;
 }
 .datepicker-orient-left .datepicker-orient-top{
-display:none;
+display:none!important;
 }
 
 
