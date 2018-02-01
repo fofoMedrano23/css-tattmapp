@@ -9,7 +9,7 @@
 .checkbox-option.not-selected {
     display: none;
 }
-.table-condensed {
+.datepicker-orient-left .datepicker-orient-top{
 display:none;
 }
 
