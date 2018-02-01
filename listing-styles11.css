@@ -2,9 +2,13 @@
    font-family: arial;
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
+
+@media (min-width: 660px){
 .datepicker-orient-top{
 	margin-top:-300px!important;
 }
+}
+
 .per_day_id{
 display:none!important;
 }
