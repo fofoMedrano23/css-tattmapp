@@ -9,7 +9,9 @@
 .checkbox-option.not-selected {
     display: none;
 }
-
+.table-condensed {
+display:none;
+}
 
 
 .inline-big-button{
