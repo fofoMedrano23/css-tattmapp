@@ -9,7 +9,7 @@
 .checkbox-option.not-selected {
     display: none;
 }
-.datepicker-orient-left .datepicker-orient-top{
+.datepicker-orient-top{
 display:none!important;
 }
 
