@@ -7,7 +7,9 @@
 .checkbox-option.not-selected {
     display: none;
 }
-
+.datepicker-end-wrapper {
+    display: none;
+}
 
 .inline-big-button{
        border-radius: 2px;
