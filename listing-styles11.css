@@ -3,7 +3,9 @@
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
 
-
+#per_day_calendar{
+display:none;
+}
 .checkbox-option.not-selected {
     display: none;
 }
