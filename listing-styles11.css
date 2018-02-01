@@ -2,9 +2,7 @@
    font-family: arial;
    src: url('https://github.com/fofoMedrano23/css-tattmapp/blob/master/MoonBold.otf');
 }
-.datepicker-end-wrapper {
-    display: none;
-}
+
 
 .checkbox-option.not-selected {
     display: none;
