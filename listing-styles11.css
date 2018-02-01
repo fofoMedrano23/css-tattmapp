@@ -4,7 +4,7 @@
 }
 
 #per_day_calendar{
-display:none;
+display:none!important;
 }
 .checkbox-option.not-selected {
     display: none;
