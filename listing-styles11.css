@@ -170,10 +170,9 @@ width:100%;
 	text-align: left;
 	font:  16px 'open' ;
 	padding: 85px 50px;
-	margin-top: 80px;
 	font-family: 'Source Sans Pro', sans-serif;
-	position:relative;
-	top:205px;
+	position:absolute;
+	
 }
 
 .footer-distributed .footer-left,
@@ -327,7 +326,6 @@ background-color:#00aced;
 
 	.footer-distributed{
 		font: bold 14px ;
-		margin-top:680px;
 		
 	}
 
