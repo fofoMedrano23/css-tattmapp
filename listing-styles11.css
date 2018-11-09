@@ -169,9 +169,12 @@ width:100%;
 	width: 100%;
 	text-align: left;
 	font:  16px 'open' ;
-	padding: 85px 50px;
+	padding: 85px 0px;
 	font-family: 'Source Sans Pro', sans-serif;
 	position:absolute;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 	
 }
 
@@ -182,12 +185,6 @@ width:100%;
 	vertical-align: top;
 }
 
-/* Footer left */
-
-.footer-distributed .footer-left{
-	width: 30%;
-	margin-left: 20%;
-}
 
 /* The company logo */
 
@@ -221,10 +218,6 @@ width:100%;
 
 /* Footer Center */
 
-.footer-distributed .footer-center{
-	width: 18%;
-	margin-left: 30px;
-}
 
 .footer-distributed .footer-center i{
 	background-color:  #33383b;
@@ -264,11 +257,6 @@ width:100%;
 }
 
 
-/* Footer Right */
-
-.footer-distributed .footer-right{
-	width: 10%;
-}
 
 .footer-distributed .footer-company-about{
 	line-height: 20px;
